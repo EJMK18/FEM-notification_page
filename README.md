@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub repository](https://github.com/EJMK18/FEM-notification_page)
-- Live Site URL: [Live site - FEM: Notification Page](https://your-live-site-url.com)
+- Live Site URL: [FEM: Notification Page](https://ejmk18.github.io/FEM-notification_page/)
 
 ## My process
 
